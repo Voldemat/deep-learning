@@ -14,7 +14,7 @@ dependencies = [
     "seaborn>=0.13.2",
     "torch>=2.14.1",
     "torchvision>=0.29.1",
-    "ty>=0.0.35",
+    "ty>=0.0.89",
 ]
 
 [tool.ruff]

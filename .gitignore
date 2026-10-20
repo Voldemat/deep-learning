@@ -11,3 +11,4 @@ wheels/
 
 data/
 .ipynb_checkpoints
+config_*.pt
